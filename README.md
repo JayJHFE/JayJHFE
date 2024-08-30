@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayJHFE)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJHFE&layout=compact)
+
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -64,4 +64,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayJHFE)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJHFE&layout=compact)
 
