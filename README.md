@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JayJHFE" />&nbsp
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=JayJHFE&layout=compact" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJHFE&layout=compact" />&nbsp
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayJHFE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayJHFE&layout=compact)
