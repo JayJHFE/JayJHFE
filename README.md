@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JayJHFE/JayJHFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/449bfa2e-4c48-48fa-9cd4-6d3f1052c5dd" />
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
